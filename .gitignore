@@ -1,0 +1,10 @@
+isc-backend/.git
+isc-frontend/.git
+*.class
+*.jar
+*.war
+*.ear
+target/
+.DS_Store
+*.log
+*.tmp
